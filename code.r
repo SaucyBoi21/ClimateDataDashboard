@@ -1,1 +1,1 @@
-install.packages("languageserver")
+?plot
